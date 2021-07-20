@@ -1,16 +1,13 @@
-# emotion_detection
+# Emotion Detection
 
-A new Flutter project.
+Flutter Project for classifying emotions i.e. Love, Anger, Joy, Sadness, Surprise, Fear. This app is made in Flutter and Dart
 
-## Getting Started
+## Technologies
 
-This project is a starting point for a Flutter application.
+Flutter, Dart, Django, Tensorflow, LSTM
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/40589577/126349530-8630f9d6-d38b-4560-b084-f2bce40aaa70.png" height="700">
+<img src="https://user-images.githubusercontent.com/40589577/126350377-a5d9706c-2f65-4561-82e9-af2f3d990192.jpg" height="700">
+<img src="https://user-images.githubusercontent.com/40589577/126350477-b3d20e22-4f5e-4273-b8e8-807caab5a3fc.jpg" height="700">
